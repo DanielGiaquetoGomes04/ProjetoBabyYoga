@@ -7,4 +7,6 @@ Ao longo do projeto, pudemos aplicar nossos conhecimentos de HTML para estrutura
 
 No geral, esse projeto proporcionou uma experiência valiosa para o aprendizado dessas tecnologias e nos permitiu explorar o desenvolvimento de projetos 3D de maneira prática e envolvente.
 
+A logo do projeto foi produzida por um IA e o desenho 3D foi instalado como uma versão gratuita no site "https://sketchfab.com".
+
 ![Logo do R](https://github.com/DanielGiaquetoGomes04/ProjetoBabyYoga/blob/main/Foto/FotoTrabalho.png)
